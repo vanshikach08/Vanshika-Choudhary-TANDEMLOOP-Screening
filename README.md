@@ -1,5 +1,5 @@
 # Vanshika-Choudhary-TANDEMLOOP-Screening
-# TANDEMLOOP Screening Test Solutions
+
 
 **Candidate Name:** Vanshika Choudhary
 **Position Applied For:** Software Developer - Experienced  
